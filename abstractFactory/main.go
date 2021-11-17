@@ -1,3 +1,4 @@
+// go mod init github.com/zinuhe/golang-design-pattern
 // go run abstractFactory/main.go
 
 package main
