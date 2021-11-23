@@ -1,17 +1,17 @@
 # Behavioural Design Patterns in Go
 Examples of Behavioural Design Pattern implementations in Go
 
-Chain of Responsiblity
-Command
-Iterator
-Mediator
-Memento
-Null Object
-Observer
-State
-Strategy
-Template Method
-Visitor
+* Chain of Responsiblity
+* Command
+* Iterator
+* Mediator
+* Memento
+* Null Object
+* Observer
+* State
+* Strategy
+* Template Method
+* Visitor
 
 
 Resources
