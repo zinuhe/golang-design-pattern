@@ -29,7 +29,7 @@ Examples of design pattern implementations in Go
 ## [Structural Design Patterns](https://github.com/zinuhe/golang-design-pattern/tree/main/structural)
 * Adapter
 * Bridge
-* Composite
+* [Composite](https://github.com/zinuhe/golang-design-pattern/tree/main/structural/composite)
 * Decorator
 * Facade
 * Flyweight
