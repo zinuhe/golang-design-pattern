@@ -5,7 +5,7 @@ Examples of design pattern implementations in Go
 `go mod init github.com/zinuhe/golang-design-pattern`
 
 
-## Creational Design Patterns
+## [Creational Design Patterns](https://github.com/zinuhe/golang-design-pattern/tree/main/creational)
 * Abstract Factory
 * Builder
 * Factory
@@ -26,7 +26,7 @@ Examples of design pattern implementations in Go
 * Template Method
 * Visitor
 
-## Structural Design Patterns
+## [Structural Design Patterns](https://github.com/zinuhe/golang-design-pattern/tree/main/structural)
 * Adapter
 * Bridge
 * Composite
