@@ -6,7 +6,7 @@ Examples of design pattern implementations in Go
 
 
 ## [Creational Design Patterns](https://github.com/zinuhe/golang-design-pattern/tree/main/creational)
-* Abstract Factory
+* [Abstract Factory](https://github.com/zinuhe/golang-design-pattern/tree/main/creational/abstractFactory)
 * Builder
 * Factory
 * Object Pool
