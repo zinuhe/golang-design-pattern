@@ -13,7 +13,7 @@ Examples of design pattern implementations in Go
 * Prototype
 * Singleton
 
-## Behavioural Design Patterns
+## [Behavioural Design Patterns](https://github.com/zinuhe/golang-design-pattern/tree/main/behavioural)
 * Chain of Responsiblity
 * Command
 * Iterator
