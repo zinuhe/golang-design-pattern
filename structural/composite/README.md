@@ -4,4 +4,4 @@ Let’s try to understand it with an example of a file system of OS. In the file
 
 
 Resources
-[golang by example - Composite Factory Pattern](https://golangbyexample.com/composite-design-pattern-golang/)
+- [golang by example](https://golangbyexample.com/composite-design-pattern-golang/)
