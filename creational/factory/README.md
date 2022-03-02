@@ -4,5 +4,5 @@ Factory Method is a creational design pattern that provides an interface for cre
 
 ### Resources
 - [refactoring.guru](https://refactoring.guru/design-patterns/factory-method)
-- [golang by example](https://golangbyexample.com/factory-design-pattern-go/)
+- [golang by example](https://golangbyexample.com/golang-factory-design-pattern)
 - [sohamkamani - factory patterns](https://www.sohamkamani.com/golang/2018-06-20-golang-factory-patterns/)
