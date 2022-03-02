@@ -6,7 +6,7 @@ Examples of design pattern implementations in Go
 
 
 ## [Behavioural Design Patterns](https://github.com/zinuhe/golang-design-pattern/tree/main/behavioural)
-* [Chain of Responsiblity]()
+* [Chain of Responsiblity](https://github.com/zinuhe/golang-design-pattern/tree/main/behavioural/chainResponsiblity)
 * [Command](https://github.com/zinuhe/golang-design-pattern/tree/main/behavioural/command)
 * [Iterator](https://github.com/zinuhe/golang-design-pattern/tree/main/behavioural/iterator)
 * [Mediator](https://github.com/zinuhe/golang-design-pattern/tree/main/behavioural/mediator)
