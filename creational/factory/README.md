@@ -1,5 +1,7 @@
 # Factory - Creational Design Pattern
 
-Resources
-[refactoring.guru/design-patterns/abstract-factory](https://refactoring.guru/design-patterns/abstract-factory)
-[golang by example - Abstract Factory Pattern](https://golangbyexample.com/abstract-factory-design-pattern-go/)
+Factory Method is a creational design pattern that provides an interface for creating objects in a superclass, but allows subclasses to alter the type of objects that will be created.
+
+### Resources
+- [refactoring.guru](https://refactoring.guru/design-patterns/factory-method)
+- [golang by example](https://golangbyexample.com/factory-design-pattern-go/)
