@@ -2,11 +2,11 @@
 Examples of Creational Design Pattern implementations in Go
 
 * [Abstract Factory](https://github.com/zinuhe/golang-design-pattern/tree/main/creational/abstractFactory)
-* Builder
-* Factory
-* Object Pool
-* Prototype
-* Singleton
+* [Builder](https://github.com/zinuhe/golang-design-pattern/tree/main/creational/builder)
+* [Factory](https://github.com/zinuhe/golang-design-pattern/tree/main/creational/factory)
+* [Object Pool](https://github.com/zinuhe/golang-design-pattern/tree/main/creational/)
+* [Prototype](https://github.com/zinuhe/golang-design-pattern/tree/main/creational/prototype)
+* [Singleton](https://github.com/zinuhe/golang-design-pattern/tree/main/creational/singlenton)
 
 
 Resources
