@@ -4,4 +4,4 @@ Prototype is a creational design pattern that lets you copy existing objects wit
 
 ### Resources
 - [refactoring.guru](https://refactoring.guru/design-patterns/prototype)
-- [golang by example](https://golangbyexample.com/prototype-design-pattern-go/)
+- [golang by example](https://golangbyexample.com/prototype-pattern-go)
