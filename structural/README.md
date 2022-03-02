@@ -1,5 +1,5 @@
 # Structural Design Patterns in Go
-Examples of Structural Design Pattern implementations in Go
+Structural patterns explain how to assemble objects and classes into larger structures while keeping these structures flexible and efficient.
 
 - [Adapter](https://github.com/zinuhe/golang-design-pattern/tree/main/structural/adapter)
 - [Bridge](https://github.com/zinuhe/golang-design-pattern/tree/main/structural/bridge)
