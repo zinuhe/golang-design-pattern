@@ -1,13 +1,14 @@
 # Structural Design Patterns in Go
 Examples of Structural Design Pattern implementations in Go
 
-* [Adapter](https://github.com/zinuhe/golang-design-pattern/tree/main/structural/adapter)
-* [Bridge](https://github.com/zinuhe/golang-design-pattern/tree/main/structural/bridge)
-* [Composite](https://github.com/zinuhe/golang-design-pattern/tree/main/structural/composite)
-* [Decorator](https://github.com/zinuhe/golang-design-pattern/tree/main/structural/decorator)
-* [Facade](https://github.com/zinuhe/golang-design-pattern/tree/main/structural/facade)
-* [Flyweight](https://github.com/zinuhe/golang-design-pattern/tree/main/structural/flyweight)
-* [Proxy](https://github.com/zinuhe/golang-design-pattern/tree/main/structural/proxy)
+- [Adapter](https://github.com/zinuhe/golang-design-pattern/tree/main/structural/adapter)
+- [Bridge](https://github.com/zinuhe/golang-design-pattern/tree/main/structural/bridge)
+- [Composite](https://github.com/zinuhe/golang-design-pattern/tree/main/structural/composite)
+- [Decorator](https://github.com/zinuhe/golang-design-pattern/tree/main/structural/decorator)
+- [Facade](https://github.com/zinuhe/golang-design-pattern/tree/main/structural/facade)
+- [Flyweight](https://github.com/zinuhe/golang-design-pattern/tree/main/structural/flyweight)
+- [Proxy](https://github.com/zinuhe/golang-design-pattern/tree/main/structural/proxy)
 
-Resources
-[golang by example - Structural Design Patterns](https://golangbyexample.com/all-design-patterns-golang/#Structural_Design_Patterns)
+### Resources
+- [refactoring.guru](https://refactoring.guru/design-patterns/structural-patterns)
+- [golang by example](https://golangbyexample.com/all-design-patterns-golang/#Structural_Design_Patterns)
