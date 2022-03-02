@@ -1,5 +1,5 @@
 # Creational Design Pattern in Go
-Examples of Creational Design Pattern implementations in Go
+Creational patterns provide various object creation mechanisms, which increase flexibility and reuse of existing code.
 
 - [Abstract Factory](https://github.com/zinuhe/golang-design-pattern/tree/main/creational/abstractFactory)
 - [Builder](https://github.com/zinuhe/golang-design-pattern/tree/main/creational/builder)
