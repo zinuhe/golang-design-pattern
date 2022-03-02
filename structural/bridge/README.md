@@ -1,5 +1,7 @@
 # Bridge - Structural Design Pattern
 
+Bridge is a structural design pattern that lets you split a large class or a set of closely related classes into two separate hierarchies—abstraction and implementation—which can be developed independently of each other.
 
 ### Resources
-- [golang by example](https://golangbyexample.com/composite-design-pattern-golang/)
+- [golang by example](https://golangbyexample.com/bridge-design-pattern-golang)
+- [refactoring.guru](https://refactoring.guru/design-patterns/bridge)
