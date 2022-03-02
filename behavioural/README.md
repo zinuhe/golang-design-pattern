@@ -1,5 +1,5 @@
 # Behavioural Design Patterns in Go
-Examples of Behavioural Design Pattern implementations in Go
+Behavioral design patterns are concerned with algorithms and the assignment of responsibilities between objects.
 
 - [Chain of Responsibility](https://github.com/zinuhe/golang-design-pattern/tree/main/behavioural/chainResponsibility)
 - [Command](https://github.com/zinuhe/golang-design-pattern/tree/main/behavioural/command)
