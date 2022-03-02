@@ -4,4 +4,4 @@ Builder is a creational design pattern that lets you construct complex objects s
 
 ### Resources
 - [refactoring.guru](https://refactoring.guru/design-patterns/builder)
-- [golang by example](https://golangbyexample.com/builder-design-pattern-go/)
+- [golang by example](https://golangbyexample.com/builder-pattern-golang)
