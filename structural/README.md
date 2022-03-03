@@ -10,5 +10,5 @@ Structural patterns explain how to assemble objects and classes into larger stru
 - [Proxy](https://github.com/zinuhe/golang-design-pattern/tree/main/structural/proxy)
 
 ### Resources
-- [refactoring.guru](https://refactoring.guru/design-patterns/structural-patterns)
 - [golang by example](https://golangbyexample.com/all-design-patterns-golang/#Structural_Design_Patterns)
+- [refactoring.guru](https://refactoring.guru/design-patterns/structural-patterns)

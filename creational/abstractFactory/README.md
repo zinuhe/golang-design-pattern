@@ -3,5 +3,5 @@ The abstract factory pattern provides a way to encapsulate a group of individual
 
 
 ### Resources
-- [refactoring.guru](https://refactoring.guru/design-patterns/abstract-factory)
 - [golang by example](https://golangbyexample.com/abstract-factory-design-pattern-go/)
+- [refactoring.guru](https://refactoring.guru/design-patterns/abstract-factory)

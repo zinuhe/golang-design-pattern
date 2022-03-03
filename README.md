@@ -37,5 +37,5 @@ Examples of design pattern implementations in Go
 
 
 ### Resources
-- [refactoring.guru](https://refactoring.guru/design-patterns)
 - [golang by example](https://golangbyexample.com/all-design-patterns-golang/)
+- [refactoring.guru](https://refactoring.guru/design-patterns)

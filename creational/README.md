@@ -9,6 +9,5 @@ Creational patterns provide various object creation mechanisms, which increase f
 - [Singleton](https://github.com/zinuhe/golang-design-pattern/tree/main/creational/singleton)
 
 ### Resources
-- [refactoring.guru](https://refactoring.guru/design-patterns/creational-patterns)
 - [golang by example](https://golangbyexample.com/all-design-patterns-golang/#Creational_Design_Patterns)
-
+- [refactoring.guru](https://refactoring.guru/design-patterns/creational-patterns)
