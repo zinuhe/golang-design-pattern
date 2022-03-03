@@ -1,5 +1,6 @@
 package main
 
+// director
 type director struct {
     builder iBuilder
 }
