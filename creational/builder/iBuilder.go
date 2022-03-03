@@ -5,10 +5,10 @@ type iBuilder interface {
     setWindowType()
     setDoorType()
     setNumFloor()
-    getHouse() house
+    getHouse() House
 }
 
-func getBuilder(builderType string) iBuilder {
+func GetBuilder(builderType string) iBuilder {
     if builderType == "normal" {
         return &normalBuilder{}
     }

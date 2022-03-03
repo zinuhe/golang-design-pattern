@@ -2,9 +2,9 @@ package builder
 
 // Concrete builder
 type iglooBuilder struct {
-    windowType string
-    doorType   string
-    floor      int
+    WindowType string
+    DoorType   string
+    Floor      int
 }
 
 func newIglooBuilder() *iglooBuilder {
@@ -12,21 +12,21 @@ func newIglooBuilder() *iglooBuilder {
 }
 
 func (b *iglooBuilder) setWindowType() {
-    b.windowType = "Snow Window"
+    b.WindowType = "Snow Window"
 }
 
 func (b *iglooBuilder) setDoorType() {
-    b.doorType = "Snow Door"
+    b.DoorType = "Snow Door"
 }
 
 func (b *iglooBuilder) setNumFloor() {
-    b.floor = 1
+    b.Floor = 1
 }
 
-func (b *iglooBuilder) getHouse() house {
-    return house{
-        doorType:   b.doorType,
-        windowType: b.windowType,
-        floor:      b.floor,
+func (b *iglooBuilder) getHouse() House {
+    return House{
+        DoorType:   b.DoorType,
+        WindowType: b.WindowType,
+        Floor:      b.Floor,
     }
 }

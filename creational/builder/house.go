@@ -1,8 +1,8 @@
 package builder
 
 // Product
-type house struct {
-    windowType string
-    doorType   string
-    floor      int
+type House struct {
+    WindowType string
+    DoorType   string
+    Floor      int
 }

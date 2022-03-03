@@ -2,9 +2,9 @@ package builder
 
 // Concrete builder
 type normalBuilder struct {
-    windowType string
-    doorType   string
-    floor      int
+    WindowType string
+    DoorType   string
+    Floor      int
 }
 
 func newNormalBuilder() *normalBuilder {
@@ -12,21 +12,21 @@ func newNormalBuilder() *normalBuilder {
 }
 
 func (b *normalBuilder) setWindowType() {
-    b.windowType = "Wooden Window"
+    b.WindowType = "Wooden Window"
 }
 
 func (b *normalBuilder) setDoorType() {
-    b.doorType = "Wooden Door"
+    b.DoorType = "Wooden Door"
 }
 
 func (b *normalBuilder) setNumFloor() {
-    b.floor = 2
+    b.Floor = 2
 }
 
-func (b *normalBuilder) getHouse() house {
-    return house{
-        doorType:   b.doorType,
-        windowType: b.windowType,
-        floor:      b.floor,
+func (b *normalBuilder) getHouse() House {
+    return House{
+        DoorType:   b.DoorType,
+        WindowType: b.WindowType,
+        Floor:      b.Floor,
     }
 }
