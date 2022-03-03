@@ -1,4 +1,4 @@
-package main
+package builder
 
 // Concrete builder
 type iglooBuilder struct {

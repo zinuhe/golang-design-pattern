@@ -1,4 +1,4 @@
-package main
+package builder
 
 // Builder interface
 type iBuilder interface {

@@ -1,4 +1,4 @@
-package main
+package builder
 
 // director
 type director struct {
